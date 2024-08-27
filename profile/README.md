@@ -11,11 +11,11 @@
 
 **Useful Links:**
 
-| **Project Progress** | **Repositories Links** |
+| **Project Progress** | **Project Repositories** |
 | --- | --- |
 | [Project Dashboard](https://github.com/orgs/MassPro-NMCPYE/projects/1/views/1?pane=info) | [DataRun API](https://github.com/MassPro-NMCPYE/data-run-api) |
-| [Documentation](https://masspro-nmcpye.github.io/data-run-docs/) | [DataRun Android APP](https://github.com/MassPro-NMCPYE/data-run-mobile) |
-| [Issues Page](https://github.com/MassPro-NMCPYE/.github/issues) | [DataRun Android SDK](https://github.com/MassPro-NMCPYE/data-run-mobile-sdk) |
-| [Discussions]([https://github.com/MassPro-NMCPYE/.github/issues](https://github.com/orgs/DataRun-ye/discussions)) | [System Documentation](https://masspro-nmcpye.github.io/data-run-docs/) |
+| [Discussions Page](https://github.com/orgs/DataRun-ye/discussions) | [DataRun Android SDK](https://github.com/MassPro-NMCPYE/data-run-mobile-sdk)
+| [Issues Page](https://github.com/MassPro-NMCPYE/.github/issues)  | [DataRun Android APP](https://github.com/MassPro-NMCPYE/data-run-mobile)    | [DataRun Documentation](https://masspro-nmcpye.github.io/data-run-docs/) |
+| [Documentation Page](https://masspro-nmcpye.github.io/data-run-docs/) |  |
 
 
