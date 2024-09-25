@@ -1,8 +1,6 @@
 **DataRun Project Status:**
 
-**Current Progress:**
-- The main API endpoints are successfully implemented, providing robust backend support for form management and data collection.
-- The Flutter Android app is live, allowing users to log in, download forms, and submit data. Key features like form entry, data sync, and user authentication are operational.
+**[Current Status and Next Steps, Progress Log](https://github.com/orgs/DataRun-ye/discussions/14#discussion-7226621)**
 
 **Next Steps:**
 - Refine the backend with additional dynamic features.
