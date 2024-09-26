@@ -1,11 +1,8 @@
-**DataRun Project Status:**
+- [Datarun Project Overview](https://github.com/orgs/DataRun-ye/discussions/9#discussion-7240188).
+- Current Status and Next Steps, App Progress Logs.
+- Current Status and Next Steps, API Progress Logs.
+- [Datarun on a larg scale campaign for the first time](https://github.com/orgs/DataRun-ye/discussions/10#discussion-7240221).
 
-**[Current Status and Next Steps, Progress Log](https://github.com/orgs/DataRun-ye/discussions/14#discussion-7226621)**
-
-**Next Steps:**
-- Refine the backend with additional dynamic features.
-- Expand the toolset for API management and project management features.
-- Start user testing to optimize the app's user experience.
 
 **Useful Links:**
 
