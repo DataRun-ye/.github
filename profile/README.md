@@ -1,6 +1,6 @@
 - [Datarun Project Overview.](https://github.com/orgs/DataRun-ye/discussions/9#discussion-7240188)
-- [Progress Logs, Current Status, and Next Steps Design decisions](https://github.com/DataRun-ye/data-run-mobile/wiki)
-- Current Status and Next Steps, API Progress Logs.
+- [Progress Logs, Current Status, and Next Steps Design decisions](https://github.com/orgs/DataRun-ye/discussions/12)
+- Current Status and Next Steps, API Progress Logs.https://github.com/orgs/DataRun-ye/discussions/12
 - [Datarun on a larg scale campaign for the first time.](https://github.com/orgs/DataRun-ye/discussions/10#discussion-7240221)
 
 
