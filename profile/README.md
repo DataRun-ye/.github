@@ -1,7 +1,7 @@
 - **[Datarun Project Overview.](https://github.com/orgs/DataRun-ye/discussions/9#discussion-7240188)**
 - **[Progress Logs, Current Status, and Next Steps Design decisions](https://github.com/orgs/DataRun-ye/discussions/12)**
 - Current Status and Next Steps, API Progress Logs.https://github.com/orgs/DataRun-ye/discussions/12
-- **[Field Applications, and User Stories ](https://github.com/orgs/DataRun-ye/discussions/categories/field-applications-and-user-stories)**
+- **[App on the Field and Usage Stories](https://github.com/orgs/DataRun-ye/discussions/categories/field-applications-and-user-stories)**
 
 **Useful Links:**
 
