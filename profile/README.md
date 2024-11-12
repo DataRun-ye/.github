@@ -9,7 +9,6 @@
 | --- | --- |
 | [Project Dashboard](https://github.com/orgs/DataRun-ye/projects/1/views/1?pane=info) | [DataRun API](https://github.com/DataRun-ye/data-run-api) |
 | [Discussions Page](https://github.com/orgs/DataRun-ye/discussions) | [DataRun Android SDK](https://github.com/DataRun-ye/data-run-mobile-sdk)
-| [Issues Page](https://github.com/DataRun-ye/.github/issues)  | [DataRun Android APP](https://github.com/DataRun-ye/data-run-mobile)    | [DataRun Documentation](https://masspro-nmcpye.github.io/data-run-docs/) |
-| [Documentation Page](https://datarun-ye.github.io/data-run-docs/) |  |
+| [Documentation Page](https://datarun-ye.github.io/data-run-docs/)  | [DataRun Android APP](https://github.com/DataRun-ye/data-run-mobile)    | [DataRun Documentation](https://masspro-nmcpye.github.io/data-run-docs/) |
 
 
