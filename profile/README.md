@@ -1,5 +1,5 @@
-- **[about](https://github.com/orgs/DataRun-ye/discussions/16)**
-- **[Progress Logs, Current Status, and Next Steps Design decisions](https://github.com/orgs/DataRun-ye/discussions/12)**
+- **[About](https://github.com/orgs/DataRun-ye/discussions/16)**
+
 - **[App on the Field and Usage Stories](https://github.com/orgs/DataRun-ye/discussions/categories/field-applications-and-user-stories)**
 
 **Useful Links:**
