@@ -1,6 +1,7 @@
 - **[About](https://github.com/orgs/DataRun-ye/discussions/16)**
 - **[App on the Field and Usage Stories](https://github.com/DataRun-ye/.github/wiki/App-on-the-field)**
 - **[Project Side Notes](https://shadowed-duke-071.notion.site/114478a2374e80e79e2fe953e8239433?v=114478a2374e80b1b43d000c74357d29)**
+- **[App releases (Android and desktop)](https://github.com/DataRun-ye/data-run-mobile/releases)**
 
 ---
 
