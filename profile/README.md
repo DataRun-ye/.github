@@ -5,6 +5,7 @@
 
 # Current state of Datarun's Architectural Capability Score
 measured by AI purely as a **general data collection architecture** for the listed Capabilities, not a specific domain architecture:
+**NOTE** this is a solo project and scores is continously improving as we keep enhancing each capability as needed
 
 | Capability                    | Score |
 | ----------------------------- | ----- |
