@@ -6,6 +6,26 @@
 
 ---
 
+# Datarun – Architectural Capability Score
+
+Measured by AI purely as a **general-purpose data collection architecture**, independent of any specific domain (e.g., supply chain, surveillance, training).
+
+> **Note:** Datarun is a solo-built system. These scores reflect current capability and are continuously evolving as features mature.
+
+## Capability Overview
+
+| Capability                      | Score |
+| ------------------------------- | ----- |
+| Structured Reporting            | 9/10  |
+| Hierarchical Governance         | 9/10  |
+| Campaign Control                | 9/10  |
+| Inventory Modeling              | 8/10  |
+| Longitudinal Tracking           | 3/10  |
+| Peer-to-Peer Workflows          | 4/10  |
+| Case Management                 | 2/10  |
+| Graph Relationships             | 3/10  |
+| Ad-hoc / Exploratory Collection | 5/10  |
+
 ## Status Summary
 
 Datarun is currently strongest as an:
@@ -25,26 +45,6 @@ Growth areas:
 * Cross-context workflows
 * Case management scenarios
 * Flexible relationship modeling beyond strict hierarchies
-
-## Datarun – Architectural Capability Score
-
-Measured by AI purely as a **general-purpose data collection architecture**, independent of any specific domain (e.g., supply chain, surveillance, training).
-
-> **Note:** Datarun is a solo-built system. These scores reflect current capability and are continuously evolving as features mature.
-
-## Capability Overview
-
-| Capability                      | Score |
-| ------------------------------- | ----- |
-| Structured Reporting            | 9/10  |
-| Hierarchical Governance         | 9/10  |
-| Campaign Control                | 9/10  |
-| Inventory Modeling              | 8/10  |
-| Longitudinal Tracking           | 3/10  |
-| Peer-to-Peer Workflows          | 4/10  |
-| Case Management                 | 2/10  |
-| Graph Relationships             | 3/10  |
-| Ad-hoc / Exploratory Collection | 5/10  |
 
 ---
 
